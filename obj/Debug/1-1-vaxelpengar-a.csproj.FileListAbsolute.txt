@@ -1,0 +1,6 @@
+P:\inledande-programmering-med-csharp\1-1-vaxelpengar-a\bin\Debug\1-1-vaxelpengar-a.exe.config
+P:\inledande-programmering-med-csharp\1-1-vaxelpengar-a\bin\Debug\1-1-vaxelpengar-a.exe
+P:\inledande-programmering-med-csharp\1-1-vaxelpengar-a\bin\Debug\1-1-vaxelpengar-a.pdb
+P:\inledande-programmering-med-csharp\1-1-vaxelpengar-a\obj\Debug\1-1-vaxelpengar-a.exe
+P:\inledande-programmering-med-csharp\1-1-vaxelpengar-a\obj\Debug\1-1-vaxelpengar-a.pdb
+P:\inledande-programmering-med-csharp\1-1-vaxelpengar-a\obj\Debug\1-1-vaxelpengar-a.csprojResolveAssemblyReference.cache
