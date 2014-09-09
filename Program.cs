@@ -132,13 +132,13 @@ namespace ConsoleApplication1
             // Skriv ut kvitto med beräknad växel
             Console.WriteLine("");
             Console.WriteLine("KVITTO");
-            Console.WriteLine("------------------------------------------");
+            Console.WriteLine("-------------------------------------");
             Console.WriteLine("Totalt             :      {0, 10:c}", subtotal);
             Console.WriteLine("Öresavrundning     :      {0, 10:c}", roundingOffAmount);
             Console.WriteLine("Att betala         :      {0, 10:c0}", total);
             Console.WriteLine("Kontant            :      {0, 10:c0}", recievedMoney);
             Console.WriteLine("Tillbaka           :      {0, 10:c0}", moneyBack);
-            Console.WriteLine("-----------------------------------------");
+            Console.WriteLine("-------------------------------------");
             if (recievedMoney > subtotal)
             {
                 Console.WriteLine("Att ge tillbaka:");
